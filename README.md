@@ -1,5 +1,6 @@
 # MOS2016OutlookDemo
 A demo that emuluates MOS 2016 Outlook exam
+![Snapshot](https://user-images.githubusercontent.com/16938012/139659418-89c4f1b5-23dc-4648-9759-fd1f98c3b223.png)
 
 ## Why is the application program created?
 JUST FOR FUN
